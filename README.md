@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @McMcrow
+- 👀 I’m interested in hoarding computers
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on local robotics team mc mod
